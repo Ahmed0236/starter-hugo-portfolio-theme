@@ -6,7 +6,8 @@ publication_types:
 authors:
   - Ahmed Anwar
 doi: https://doi.org/10.1145/3396956.3396973
-publication: ""
+publication: fdfnfgn
+publication_short: fgnfgbdfgb
 abstract: In this paper we evaluate public sentiment and opinion on Brexit
   during September and October 2019 by collecting over 16 million user messages
   from Twitter - world’s largest online micro-blogging service. We perform
