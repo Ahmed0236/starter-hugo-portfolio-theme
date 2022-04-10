@@ -1,5 +1,5 @@
 ---
-title: Analyzing Brexit’s impact using sentiment analysis and topic modeling on
+title: Analyzing Brexit’s impact using sentiment analysis and topic modeing on
   Twitter discussion
 publication_types:
   - "1"
